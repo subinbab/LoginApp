@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQpY8SH+LBM=",
+  "success": false,
+  "projectFilePath": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\TestToDo\\TestToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Subin Babu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\Subin Babu\\.nuget\\packages\\microsoft.codeanalysis.common\\4.11.0\\microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\Subin Babu\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.11.0\\microsoft.codeanalysis.csharp.4.11.0.nupkg.sha512",
+    "C:\\Users\\Subin Babu\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\Subin Babu\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\tests\\Infrastructure.IntegrationTests\\Infrastructure.IntegrationTests.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\tests\\Infrastructure.IntegrationTests\\Infrastructure.IntegrationTests.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\src\\Infrastructure\\Infrastructure.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\src\\Infrastructure\\Infrastructure.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\src\\Application\\Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\src\\Application\\Application.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\tests\\Application.UnitTests\\Application.UnitTests.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\src\\Web\\Web.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\src\\Web\\Web.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\tests\\Application.FunctionalTests\\Application.FunctionalTests.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\tests\\Application.FunctionalTests\\Application.FunctionalTests.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\tests\\Domain.UnitTests\\Domain.UnitTests.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\tests\\Domain.UnitTests\\Domain.UnitTests.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\CodeGenProj\\760054651\\760054651\\src\\Domain\\Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\CodeGenProj\\760054651\\760054651\\src\\Domain\\Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

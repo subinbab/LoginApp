@@ -1,0 +1,12 @@
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\bin\Debug\net8.0\Core.deps.json
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\bin\Debug\net8.0\Core.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\bin\Debug\net8.0\Core.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\Core.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Core\obj\Debug\net8.0\ref\Core.dll

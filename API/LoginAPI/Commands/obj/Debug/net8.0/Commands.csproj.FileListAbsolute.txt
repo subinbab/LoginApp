@@ -1,0 +1,17 @@
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.csproj.AssemblyReference.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.AssemblyInfoInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.AssemblyInfo.cs
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.csproj.CoreCompileInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\Commands.deps.json
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\Commands.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\Commands.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\ProjectModels.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\XMLGenerator.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\ProjectModels.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\bin\Debug\net8.0\XMLGenerator.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.csproj.Up2Date
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\refint\Commands.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\Commands.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Commands\obj\Debug\net8.0\ref\Commands.dll

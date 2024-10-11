@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectType />
+  <architetureDetails>
+    <Name>clean</Name>
+    <RootPath>D:\CodeGenProj\</RootPath>
+  </architetureDetails>
+  <apiProgramecsFilePath>D:\CodeGenProj\\src\Web\Programe.cs</apiProgramecsFilePath>
+</Project>

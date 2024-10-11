@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectScanner\ProjectScanner.csproj" />
+    <ProjectReference Include="..\Template\Template.csproj" />
+    <ProjectReference Include="..\XMLGenerator\XMLGenerator.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\src\Application\Application.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\src\Domain\Domain.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\src\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\src\Web\Web.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\tests\Application.FunctionalTests\Application.FunctionalTests.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\tests\Application.UnitTests\Application.UnitTests.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\tests\Domain.UnitTests\Domain.UnitTests.csproj" />
+    <ProjectReference Include="D:\CodeGenProj\760054651\760054651\tests\Infrastructure.IntegrationTests\Infrastructure.IntegrationTests.csproj" />
+  </ItemGroup>
+
+</Project>

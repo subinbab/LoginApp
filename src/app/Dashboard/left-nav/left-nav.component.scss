@@ -1,0 +1,60 @@
+.sidebar {
+    height: 100%; /* Full-height */
+    width: 250px; /* Width of the sidebar */
+    position: fixed; /* Make sidebar stay in place */
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9; /* Black */
+    padding-top: 61px; /* Padding at the top */
+    
+  }
+  
+  .sidebar ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+    height: 89vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .sidebar ul li {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+  }
+  
+  .sidebar ul li a {
+    text-decoration: none;
+    color: white; /* White text */
+    display: block; /* Make links fill the width of their container */
+  }
+  
+
+  .create-project{
+    width: 160px;
+    padding: 8px;
+    border: none;
+    border-radius: 15px;
+  }
+  .side-menu-btn{
+    background-color: #cfcfcf;
+    height: 42px;
+    width: 214px;
+    padding: 8px;
+    border: none;
+    border-radius: 15px;
+  }
+  .sidebar-ul{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .create-project:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* x-offset, y-offset, blur-radius, color */
+  }
+  .side-menu-btn:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* x-offset, y-offset, blur-radius, color */
+  }

@@ -1,0 +1,1284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B83A56-741C-4196-B589-7D4930A85F65}|TestToDo\\TestToDo.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\testtodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B83A56-741C-4196-B589-7D4930A85F65}|TestToDo\\TestToDo.csproj|solutionrelative:testtodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\projectreader\\addreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\projectreader\\addreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B83A56-741C-4196-B589-7D4930A85F65}|TestToDo\\TestToDo.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\testtodo\\testtodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7B83A56-741C-4196-B589-7D4930A85F65}|TestToDo\\TestToDo.csproj|solutionrelative:testtodo\\testtodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\projectscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\projectscanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\compile\\dynamiccompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\compile\\dynamiccompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\template\\command\\executecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|solutionrelative:template\\command\\executecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\projectreader\\classread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\projectreader\\classread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\xmlgenerator\\xmlread\\readdotnetcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|solutionrelative:xmlgenerator\\xmlread\\readdotnetcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\commands\\commands.dotnetcore\\cleanarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|solutionrelative:commands\\commands.dotnetcore\\cleanarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CA2F84-E44E-4923-9E74-1FAFE353E2D5}|CodeGenerator\\CodeGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\codegenerator\\createproject\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CA2F84-E44E-4923-9E74-1FAFE353E2D5}|CodeGenerator\\CodeGenerator.csproj|solutionrelative:codegenerator\\createproject\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\xmlgenerator\\xmlupdate\\xmldotnetupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|solutionrelative:xmlgenerator\\xmlupdate\\xmldotnetupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\xmlgenerator\\xmlread\\xmlread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|solutionrelative:xmlgenerator\\xmlread\\xmlread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\projectreader\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\projectreader\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\projectreader\\structureanalyser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\projectreader\\structureanalyser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\xmlgenerator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|solutionrelative:xmlgenerator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\template\\projectcrud\\projectcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|solutionrelative:template\\projectcrud\\projectcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E6D7B3-1FF7-400E-A851-4A7BCB5860D5}|ProjectModels\\ProjectModels.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectmodels\\dotnetcore\\dotnetcore.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E6D7B3-1FF7-400E-A851-4A7BCB5860D5}|ProjectModels\\ProjectModels.csproj|solutionrelative:projectmodels\\dotnetcore\\dotnetcore.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E6D7B3-1FF7-400E-A851-4A7BCB5860D5}|ProjectModels\\ProjectModels.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectmodels\\projects\\projectbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E6D7B3-1FF7-400E-A851-4A7BCB5860D5}|ProjectModels\\ProjectModels.csproj|solutionrelative:projectmodels\\projects\\projectbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\xmlgenerator\\xmlcreate\\xmlcreatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612E457C-71C2-480C-9E6F-C007AD6A2235}|XMLGenerator\\XMLGenerator.csproj|solutionrelative:xmlgenerator\\xmlcreate\\xmlcreatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\commands\\commandsxml\\clean_arch.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|solutionrelative:commands\\commandsxml\\clean_arch.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\commands\\commands.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|solutionrelative:commands\\commands.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\commands\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2E2840-9316-4668-ADA1-42DFAE6B0371}|Commands\\Commands.csproj|solutionrelative:commands\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Subin Babu\\AppData\\Local\\Temp\\Microsoft.Common.CurrentVersion.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\usecases\\usecases.projectoperation\\usecasesprojectoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|solutionrelative:usecases\\usecases.projectoperation\\usecasesprojectoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\template\\projectcrud\\projectdeploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|solutionrelative:template\\projectcrud\\projectdeploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\template\\command\\iiscommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|solutionrelative:template\\command\\iiscommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E6D7B3-1FF7-400E-A851-4A7BCB5860D5}|ProjectModels\\ProjectModels.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E6D7B3-1FF7-400E-A851-4A7BCB5860D5}|ProjectModels\\ProjectModels.csproj|solutionrelative:projectmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CA2F84-E44E-4923-9E74-1FAFE353E2D5}|CodeGenerator\\CodeGenerator.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\codegenerator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CA2F84-E44E-4923-9E74-1FAFE353E2D5}|CodeGenerator\\CodeGenerator.csproj|solutionrelative:codegenerator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\models\\classprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\models\\classprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\projectscanner\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706BEF0D-5D14-45B2-AA18-6DC9A936EEDE}|ProjectScanner\\ProjectScanner.csproj|solutionrelative:projectscanner\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TestProject\\2146087882\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TestProject\\1316989374\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\interfaces\\project\\iprojectoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\interfaces\\project\\iprojectoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\template\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA246C6-8CC0-4B00-8CDC-4C4371640FAA}|Template\\Template.csproj|solutionrelative:template\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\project\\projectoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\project\\projectoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\usecases\\login\\loginoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|solutionrelative:usecases\\login\\loginoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\project\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\project\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\register\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\register\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DoCode\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\login\\refreshtokenrepooperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\login\\refreshtokenrepooperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\login\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\login\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\models\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\models\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\usecases\\register\\registeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|solutionrelative:usecases\\register\\registeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\login\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\login\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Migrations\\20240926152724_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240926152724_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\login\\loginbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\login\\loginbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\register\\registerbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\register\\registerbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\interfaces\\iloginoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iloginoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\interfaces\\register\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\interfaces\\register\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\register\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\register\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\loginapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68F36F1-D1D8-4A2E-9957-37A459C25347}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\interfaces\\register\\iregisteroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\interfaces\\register\\iregisteroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\abstractmodels\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\abstractmodels\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\interfaces\\register\\entityentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\interfaces\\register\\entityentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43C74CB-8349-4E9A-8BCD-7E63C2C08560}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\usecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1778AA-3BC2-45ED-8EF3-9E43F13F1415}|UseCases\\UseCases.csproj|solutionrelative:usecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|c:\\projects\\angular\\login-app\\login\\api\\loginapi\\infrastructure\\migrations\\20240926165753_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6757AA13-AB1A-41F7-9C51-600041A91717}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240926165753_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CleanArchitecture.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\Commands.DotnetCore\\CleanArchitecture.cs",
+              "RelativeDocumentMoniker": "Commands\\Commands.DotnetCore\\CleanArchitecture.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\Commands.DotnetCore\\CleanArchitecture.cs",
+              "RelativeToolTip": "Commands\\Commands.DotnetCore\\CleanArchitecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:23:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\CodeGenerator\\CreateProject\\Create.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\CreateProject\\Create.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\CodeGenerator\\CreateProject\\Create.cs",
+              "RelativeToolTip": "CodeGenerator\\CreateProject\\Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:03:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExecuteCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\Command\\ExecuteCommand.cs",
+              "RelativeDocumentMoniker": "Template\\Command\\ExecuteCommand.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\Command\\ExecuteCommand.cs",
+              "RelativeToolTip": "Template\\Command\\ExecuteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:50:17.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddReference.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\AddReference.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\ProjectReader\\AddReference.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\AddReference.cs",
+              "RelativeToolTip": "ProjectScanner\\ProjectReader\\AddReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:27:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectScanner.csproj",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectScanner.csproj",
+              "RelativeDocumentMoniker": "ProjectScanner\\ProjectScanner.csproj",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectScanner.csproj",
+              "RelativeToolTip": "ProjectScanner\\ProjectScanner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T02:57:46.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\TestToDo\\Program.cs",
+              "RelativeDocumentMoniker": "TestToDo\\Program.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\TestToDo\\Program.cs",
+              "RelativeToolTip": "TestToDo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:01:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestToDo",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\TestToDo\\TestToDo.csproj",
+              "RelativeDocumentMoniker": "TestToDo\\TestToDo.csproj",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\TestToDo\\TestToDo.csproj",
+              "RelativeToolTip": "TestToDo\\TestToDo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T03:19:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DynamicCompiler.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\Compile\\DynamicCompiler.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\Compile\\DynamicCompiler.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\Compile\\DynamicCompiler.cs",
+              "RelativeToolTip": "ProjectScanner\\Compile\\DynamicCompiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:15:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XMLDotnetUpdate.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLUpdate\\XMLDotnetUpdate.cs",
+              "RelativeDocumentMoniker": "XMLGenerator\\XMLUpdate\\XMLDotnetUpdate.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLUpdate\\XMLDotnetUpdate.cs",
+              "RelativeToolTip": "XMLGenerator\\XMLUpdate\\XMLDotnetUpdate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:45:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadDotnetCommands.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLRead\\ReadDotnetCommands.cs",
+              "RelativeDocumentMoniker": "XMLGenerator\\XMLRead\\ReadDotnetCommands.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLRead\\ReadDotnetCommands.cs",
+              "RelativeToolTip": "XMLGenerator\\XMLRead\\ReadDotnetCommands.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:34:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassRead.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\ClassRead.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\ProjectReader\\ClassRead.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\ClassRead.cs",
+              "RelativeToolTip": "ProjectScanner\\ProjectReader\\ClassRead.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:57:11.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XMLRead.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLRead\\XMLRead.cs",
+              "RelativeDocumentMoniker": "XMLGenerator\\XMLRead\\XMLRead.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLRead\\XMLRead.cs",
+              "RelativeToolTip": "XMLGenerator\\XMLRead\\XMLRead.cs",
+              "ViewState": "AgIAAAgAAACAZWZmZmYgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:05:46.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectBaseModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectModels\\Projects\\ProjectBaseModel.cs",
+              "RelativeDocumentMoniker": "ProjectModels\\Projects\\ProjectBaseModel.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectModels\\Projects\\ProjectBaseModel.cs",
+              "RelativeToolTip": "ProjectModels\\Projects\\ProjectBaseModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:11:22.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StructureAnalyser.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\StructureAnalyser.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\ProjectReader\\StructureAnalyser.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\StructureAnalyser.cs",
+              "RelativeToolTip": "ProjectScanner\\ProjectReader\\StructureAnalyser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:08:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\ProjectReader\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\ProjectReader\\Class1.cs",
+              "RelativeToolTip": "ProjectScanner\\ProjectReader\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:22:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\Class1.cs",
+              "RelativeDocumentMoniker": "XMLGenerator\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\Class1.cs",
+              "RelativeToolTip": "XMLGenerator\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:33:38.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DotnetCore.Commands.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectModels\\DotnetCore\\DotnetCore.Commands.cs",
+              "RelativeDocumentMoniker": "ProjectModels\\DotnetCore\\DotnetCore.Commands.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectModels\\DotnetCore\\DotnetCore.Commands.cs",
+              "RelativeToolTip": "ProjectModels\\DotnetCore\\DotnetCore.Commands.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:25:46.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\ProjectCRUD\\ProjectCreate.cs",
+              "RelativeDocumentMoniker": "Template\\ProjectCRUD\\ProjectCreate.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\ProjectCRUD\\ProjectCreate.cs",
+              "RelativeToolTip": "Template\\ProjectCRUD\\ProjectCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:42:46.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clean_arch.xml",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\CommandsXML\\clean_arch.xml",
+              "RelativeDocumentMoniker": "Commands\\CommandsXML\\clean_arch.xml",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\CommandsXML\\clean_arch.xml",
+              "RelativeToolTip": "Commands\\CommandsXML\\clean_arch.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-07T08:23:53.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "XMLCreateFile.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLCreate\\XMLCreateFile.cs",
+              "RelativeDocumentMoniker": "XMLGenerator\\XMLCreate\\XMLCreateFile.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\XMLGenerator\\XMLCreate\\XMLCreateFile.cs",
+              "RelativeToolTip": "XMLGenerator\\XMLCreate\\XMLCreateFile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:44:02.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Commands.csproj",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\Commands.csproj",
+              "RelativeDocumentMoniker": "Commands\\Commands.csproj",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\Commands.csproj",
+              "RelativeToolTip": "Commands\\Commands.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T08:30:25.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\Class1.cs",
+              "RelativeDocumentMoniker": "Commands\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Commands\\Class1.cs",
+              "RelativeToolTip": "Commands\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:22:02.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.Common.CurrentVersion.xsd",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\AppData\\Local\\Temp\\Microsoft.Common.CurrentVersion.xsd",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\Subin Babu\\AppData\\Local\\Temp\\Microsoft.Common.CurrentVersion.xsd",
+              "ToolTip": "C:\\Users\\Subin Babu\\AppData\\Local\\Temp\\Microsoft.Common.CurrentVersion.xsd",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\Subin Babu\\AppData\\Local\\Temp\\Microsoft.Common.CurrentVersion.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-07T07:18:26.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAKITAAAAAAAAAAAWwKkTAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-07T07:12:34.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\CodeGenerator\\Class1.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\CodeGenerator\\Class1.cs",
+              "RelativeToolTip": "CodeGenerator\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:03:02.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UseCasesProjectOperations.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\UseCases.ProjectOperation\\UseCasesProjectOperations.cs",
+              "RelativeDocumentMoniker": "UseCases\\UseCases.ProjectOperation\\UseCasesProjectOperations.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\UseCases.ProjectOperation\\UseCasesProjectOperations.cs",
+              "RelativeToolTip": "UseCases\\UseCases.ProjectOperation\\UseCasesProjectOperations.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:36:08.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClassProps.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\Models\\ClassProps.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\Models\\ClassProps.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\Models\\ClassProps.cs",
+              "RelativeToolTip": "ProjectScanner\\Models\\ClassProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:58:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IISCommands.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\Command\\IISCommands.cs",
+              "RelativeDocumentMoniker": "Template\\Command\\IISCommands.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\Command\\IISCommands.cs",
+              "RelativeToolTip": "Template\\Command\\IISCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:53:29.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjectDeploy.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\ProjectCRUD\\ProjectDeploy.cs",
+              "RelativeDocumentMoniker": "Template\\ProjectCRUD\\ProjectDeploy.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\ProjectCRUD\\ProjectDeploy.cs",
+              "RelativeToolTip": "Template\\ProjectCRUD\\ProjectDeploy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:49:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectModels\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjectModels\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectModels\\Class1.cs",
+              "RelativeToolTip": "ProjectModels\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:10:59.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjectScanner\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\ProjectScanner\\Class1.cs",
+              "RelativeToolTip": "ProjectScanner\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:56:28.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TestProject\\2146087882\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TestProject\\2146087882\\Program.cs",
+              "ToolTip": "C:\\Projects\\TestProject\\2146087882\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TestProject\\2146087882\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:21:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TestProject\\1316989374\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\TestProject\\1316989374\\Program.cs",
+              "ToolTip": "C:\\Projects\\TestProject\\1316989374\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\TestProject\\1316989374\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:28:59.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Program.cs",
+              "RelativeToolTip": "LoginAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvxwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:52:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "LoginAPI\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:24:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Controllers\\Dashboard.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\Dashboard.cs",
+              "RelativeToolTip": "LoginAPI\\Controllers\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:50:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProjectOperation.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Project\\IProjectOperation.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Project\\IProjectOperation.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Project\\IProjectOperation.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Project\\IProjectOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:23:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\Class1.cs",
+              "RelativeDocumentMoniker": "Template\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Template\\Class1.cs",
+              "RelativeToolTip": "Template\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:42:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CryptoGraphy.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\CryptoGraphy\\CryptoGraphy.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\CryptoGraphy\\CryptoGraphy.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\CryptoGraphy\\CryptoGraphy.cs",
+              "RelativeToolTip": "LoginAPI\\CryptoGraphy\\CryptoGraphy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:04:11.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:44:40.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginOperations.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\Login\\LoginOperations.cs",
+              "RelativeDocumentMoniker": "UseCases\\Login\\LoginOperations.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\Login\\LoginOperations.cs",
+              "RelativeToolTip": "UseCases\\Login\\LoginOperations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:29:37.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\DB\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DB\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\DB\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DB\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAFzMzMzMLwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:08:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProjectOperation.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Project\\ProjectOperation.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Project\\ProjectOperation.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Project\\ProjectOperation.cs",
+              "RelativeToolTip": "Infrastructure\\Project\\ProjectOperation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:31:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "LoginAPI\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:05:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Response.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Response.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Response.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:35:34.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Register\\Register.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Register\\Register.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Register\\Register.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Register\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:00:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProjectModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Project\\ProjectModel.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Project\\ProjectModel.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Project\\ProjectModel.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Project\\ProjectModel.cs",
+              "ViewState": "AgIAAAQAAACALzMzMzMLwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:25:32.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Login\\Login.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Login\\Login.cs",
+              "RelativeToolTip": "Infrastructure\\Login\\Login.cs",
+              "ViewState": "AgIAAAUAAAABAAAAAIBJwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:24:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T06:07:46.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Models\\TokenModel.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\TokenModel.cs",
+              "RelativeToolTip": "LoginAPI\\Models\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:02:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Models\\AuthenticationResult.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\AuthenticationResult.cs",
+              "RelativeToolTip": "LoginAPI\\Models\\AuthenticationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:02:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Login\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Login\\RefreshToken.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Login\\RefreshToken.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Login\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:09:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\appsettings.json",
+              "RelativeToolTip": "LoginAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:01:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "example.cs",
+              "DocumentMoniker": "D:\\DoCode\\example.cs",
+              "ToolTip": "D:\\DoCode\\example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:44:36.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Models\\JWTSettings.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\JWTSettings.cs",
+              "RelativeToolTip": "LoginAPI\\Models\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:03:19.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "LoginAPI\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:09:17.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RefreshTokenRepoOperation.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Login\\RefreshTokenRepoOperation.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Login\\RefreshTokenRepoOperation.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Login\\RefreshTokenRepoOperation.cs",
+              "RelativeToolTip": "Infrastructure\\Login\\RefreshTokenRepoOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:13:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240926165753_1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Migrations\\20240926165753_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240926165753_1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Migrations\\20240926165753_1.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240926165753_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:57:54.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RegisterOperations.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\Register\\RegisterOperations.cs",
+              "RelativeDocumentMoniker": "UseCases\\Register\\RegisterOperations.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\Register\\RegisterOperations.cs",
+              "RelativeToolTip": "UseCases\\Register\\RegisterOperations.cs",
+              "ViewState": "AgIAAAgAAAAcMzMzMzMfwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:20:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\User\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\User\\ApplicationUser.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\User\\ApplicationUser.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\User\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:37:20.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Login\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Login\\UserLogin.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Login\\UserLogin.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Login\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:14:18.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240926152724_1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Migrations\\20240926152724_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240926152724_1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Migrations\\20240926152724_1.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240926152724_1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:27:25.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginBase.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Login\\LoginBase.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Login\\LoginBase.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Login\\LoginBase.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Login\\LoginBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:11:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegisterBaseClass.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Register\\RegisterBaseClass.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\Register\\RegisterBaseClass.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\Register\\RegisterBaseClass.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\Register\\RegisterBaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:58:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ILoginOperations.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\ILoginOperations.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ILoginOperations.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\ILoginOperations.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ILoginOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:45:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:31:42.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IRegister.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Register\\IRegister.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Register\\IRegister.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Register\\IRegister.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Register\\IRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:09:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Register\\Register.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Register\\Register.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Register\\Register.cs",
+              "RelativeToolTip": "Infrastructure\\Register\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:03:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\LoginAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LoginAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:23:59.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IRegisterOperations.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Register\\IRegisterOperations.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Register\\IRegisterOperations.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Register\\IRegisterOperations.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Register\\IRegisterOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:09:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\ResponseData.cs",
+              "RelativeDocumentMoniker": "Core\\AbstractModels\\ResponseData.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\AbstractModels\\ResponseData.cs",
+              "RelativeToolTip": "Core\\AbstractModels\\ResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:10:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "EntityEntry.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Register\\EntityEntry.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\Register\\EntityEntry.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Interfaces\\Register\\EntityEntry.cs",
+              "RelativeToolTip": "Core\\Interfaces\\Register\\EntityEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:16:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:06:08.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\Class1.cs",
+              "RelativeDocumentMoniker": "UseCases\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\UseCases\\Class1.cs",
+              "RelativeToolTip": "UseCases\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:06:57.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Angular\\Login-App\\Login\\API\\LoginAPI\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:05:50.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

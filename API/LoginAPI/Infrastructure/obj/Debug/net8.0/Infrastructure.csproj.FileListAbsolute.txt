@@ -1,0 +1,17 @@
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

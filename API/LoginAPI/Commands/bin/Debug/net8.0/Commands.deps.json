@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Commands/1.0.0": {
+        "dependencies": {
+          "ProjectModels": "1.0.0",
+          "XMLGenerator": "1.0.0"
+        },
+        "runtime": {
+          "Commands.dll": {}
+        }
+      },
+      "ProjectModels/1.0.0": {
+        "runtime": {
+          "ProjectModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "XMLGenerator/1.0.0": {
+        "dependencies": {
+          "ProjectModels": "1.0.0"
+        },
+        "runtime": {
+          "XMLGenerator.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Commands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XMLGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

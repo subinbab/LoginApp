@@ -1,0 +1,17 @@
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\Template.deps.json
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\Template.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\Template.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.AssemblyInfoInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.AssemblyInfo.cs
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.csproj.CoreCompileInputs.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\refint\Template.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\ref\Template.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.csproj.AssemblyReference.cache
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\ProjectModels.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\XMLGenerator.dll
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\ProjectModels.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\bin\Debug\net8.0\XMLGenerator.pdb
+C:\Projects\Angular\Login-App\Login\API\LoginAPI\Template\obj\Debug\net8.0\Template.csproj.Up2Date

@@ -1,0 +1,25 @@
+.nav-bar{
+    // align-items: center;
+    // justify-content: space-between;
+}
+/* sidebar.component.css */
+.top-navbar{
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    background-color: #d9d9d9;
+    height: 60px;
+    align-items: center;
+}
+.logout-cls-div{
+    width: 13%;
+}
+.logout-cls{
+    width: 82px;
+    padding: 8px;
+    border: none;
+    border-radius: 15px;
+}
+.logout-cls:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* x-offset, y-offset, blur-radius, color */
+}
